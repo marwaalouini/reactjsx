@@ -1,0 +1,10 @@
+body{ 
+  background-image: url(bg.jpeg);
+  background-size: cover;
+}
+
+.App{
+  margin-left: 63%;
+ margin-top: 3%;
+}
+
